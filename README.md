@@ -131,4 +131,3 @@ python agente_python.py
 | `mostrar_relaciones()` | Muestra tripletas del grafo RDF |
 | `chatbot()` | Interfaz conversacional para consultas |
 
-### Ejemplo de Sesión
