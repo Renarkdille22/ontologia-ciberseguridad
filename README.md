@@ -1,3 +1,11 @@
+## Descripción del Proyecto
+
+Esta ontología modela el dominio de la ciberseguridad organizacional utilizando el estándar OWL/RDF. Fue desarrollada en Protégé y validada con el razonador HermiT sin errores lógicos. Permite representar amenazas informáticas, vulnerabilidades, controles de seguridad y sus relaciones dentro de un entorno estructurado.
+
+**Namespace:** `http://www.miOntologia.org/ciberseguridad#`  
+**Archivo principal:** `ciberseguridadrss.owl`  
+**Repositorio:** https://github.com/Renarkdille22/ontologia-ciberseguridad
+
 ## Descripción de la Ontología
 
 Esta ontología modela el dominio de la ciberseguridad organizacional con las siguientes clases principales:
